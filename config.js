@@ -2,7 +2,7 @@
 
 const siteConfig = {
   // Personal Information
-  name: "Max Räuker",
+  name: "Max RÃ¤uker",
   title: "Homepage",
   location: "Berlin, Germany",
   
@@ -23,7 +23,7 @@ const siteConfig = {
       // Example of adding hyperlinks: use [link text](url) syntax
       // "I work with organizations like [MATS](https://www.matsprogram.org/) and [Rethink Priorities](https://rethinkpriorities.org/)."
     ],
-    profileImage: "https://drive.google.com/uc?export=view&id=1Rb5GHv0jnAr6DjN6uekd2Tnl1SOszxVJ"
+    profileImage: "profile.jpg"
   },
 
   // Projects
@@ -70,7 +70,7 @@ const siteConfig = {
   research: [
     {
       title: "Survey on intermediate goals in AI governance",
-      authors: "Max Räuker, Michael Aird",
+      authors: "Max RÃ¤uker, Michael Aird",
       venue: "Rethink Priorities, 2023",
       url: "https://rethinkpriorities.org/publications/survey-on-intermediate-goals-in-ai-governance",
       description: "Comprehensive survey of strategic perspectives in the AI governance field (n=107)",
@@ -79,7 +79,7 @@ const siteConfig = {
 
     {
       title: "Research Agenda: Reducing barriers for pausing before developing superintelligent AI",
-      authors: "Max Räuker",
+      authors: "Max RÃ¤uker",
       venue: "MATS, 2025",
       url: "https://docs.google.com/document/d/1IKeZSbcQ-IQ5aDga57ArLNk_Y_Epk6R_-ejTrx0cJhg/edit",
       description: "Research agenda developed at MATS.",
