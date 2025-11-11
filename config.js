@@ -17,7 +17,7 @@ const siteConfig = {
 
   // About Section
   about: {
-    intro: "Shining a light on the Good, the Bad, and the Uncertain.",
+    intro: "Shining a light on [the Good](https://forum.effectivealtruism.org/users/maxra), [the Bad](https://en.wikipedia.org/wiki/Three_poisons), and [the Uncertain](https://www.metaculus.com/accounts/profile/110500/).",
     bio: [
       "I'm an AI strategy and governance researcher based in Berlin, working at the intersection of policy analysis, forecasting, project management, and strategy consultation.",
       // Example of adding hyperlinks: use [link text](url) syntax
