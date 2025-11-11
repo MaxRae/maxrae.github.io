@@ -2,7 +2,7 @@
 
 const siteConfig = {
   // Personal Information
-  name: "Max RÃ¤uker",
+  name: "Max Räuker",
   title: "Homepage",
   location: "Berlin, Germany",
   
@@ -70,7 +70,7 @@ const siteConfig = {
   research: [
     {
       title: "Survey on intermediate goals in AI governance",
-      authors: "Max RÃ¤uker, Michael Aird",
+      authors: "Max Räuker, Michael Aird",
       venue: "Rethink Priorities, 2023",
       url: "https://rethinkpriorities.org/publications/survey-on-intermediate-goals-in-ai-governance",
       description: "Comprehensive survey of strategic perspectives in the AI governance field (n=107)",
@@ -79,7 +79,7 @@ const siteConfig = {
 
     {
       title: "Research Agenda: Reducing barriers for pausing before developing superintelligent AI",
-      authors: "Max RÃ¤uker",
+      authors: "Max Räuker",
       venue: "MATS, 2025",
       url: "https://docs.google.com/document/d/1IKeZSbcQ-IQ5aDga57ArLNk_Y_Epk6R_-ejTrx0cJhg/edit",
       description: "Research agenda developed at MATS.",
